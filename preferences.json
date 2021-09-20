@@ -1,0 +1,5 @@
+{
+    "email": "youremailaddress@olin.edu < or username for the testing website",
+    "password": "yourpasswordhere < it will only be stored locally and used to sign in on your computer",
+    "day": "Monday < day of the week (or delete this line to choose the earliest available appt)"
+}
