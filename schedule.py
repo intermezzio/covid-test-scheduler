@@ -49,7 +49,7 @@ time.sleep(2)
 next_button = driver.find_element_by_css_selector("button[type=\"submit\"]")
 driver.execute_script("arguments[0].scrollIntoView(true);", next_button)
 next_button.click()
-time.sleep(3)
+time.sleep(1)
 
 ## Schedule the test time
 if DAY_SET:
