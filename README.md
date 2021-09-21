@@ -30,3 +30,9 @@ To run the code, run the main Python script:
 ```sh
 python3 schedule.py
 ```
+
+### Note
+
+To prevent a bad test from being scheduled, this script intentionally stops right before
+confirming the appointment. To fully schedule the appointment **you have to click the
+last confirm button** at the end.
